@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Joshua Sarting
 
-<!--
-**juicewhoaahrld/juicewhoaahrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm a Bachelor of Science in Information Technology (BSIT) student from the Philippines who is passionate about web development and continuously improving my programming skills.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+- Responsive Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Career Goal
+To become a professional Full-Stack Web Developer and build useful applications that solve real-world problems.
+
+## 🚀 Current Learning
+- JavaScript
+- React
+- Git & GitHub
+- UI/UX Design
+
+## 📫 Contact Me
+- Email: joshwaeesartz@gmail.com
+- GitHub: https://github.com/juicewhoaahrld
+
+---
+⭐ Thank you for visiting my GitHub profile!
