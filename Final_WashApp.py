@@ -1198,7 +1198,7 @@ class CarwashApp(tk.Tk):
         self.update_price()
 
     def update_vehicle_selection(self, event=None):
-                                                                      
+        """Update the vehicle selected for the current reservation."""
         vehicle = self.vehicle_var.get().strip()
         if vehicle:
             self.selected_vehicle = vehicle

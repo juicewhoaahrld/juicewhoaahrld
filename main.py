@@ -1,14 +1,5 @@
-\
-\
-\
-\
-\
-\
-   
-
-from frontend import Frontend
-
+from frontend import CarwashApp
 
 if __name__ == "__main__":
-    app = Frontend()
-    app.run()
+    app = CarwashApp()
+    app.mainloop()
